@@ -1,3 +1,5 @@
 # aws-automation
 
-Repository for automating AWS with Python
+#Project Name: 01-webotron:
+#Project Objective: Build command line tool to manage simple static website
+#Project Description: Sync local directory to S3, manage DNS and CLoudFront.
